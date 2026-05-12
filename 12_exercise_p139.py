@@ -136,8 +136,6 @@ print(f'최다득표 : {max_key}, {vote[max_key]}표')
 # ex) 9
 
 # ex) 10
-
-
 def price(menue):
     if menue == 1:
         m = '아메리카노'
